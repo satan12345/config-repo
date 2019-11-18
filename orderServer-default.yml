@@ -30,4 +30,4 @@ eureka:
 server:
   port: 8082
 
-env: test2
+env: test3
