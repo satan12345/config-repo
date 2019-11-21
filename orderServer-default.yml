@@ -37,3 +37,6 @@ management:
         include: bus-refresh
 
 env: test7
+girl:
+    name: 卡卡西
+    age: 18
