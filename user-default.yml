@@ -20,7 +20,7 @@ spring:
       connection-timeout: 30000
       connection-test-query: SELECT 1
   application:
-    name: order-server
+    name: user
 
 eureka:
   client:
@@ -35,8 +35,3 @@ management:
     web:
       exposure:
         include: bus-refresh
-
-env: test7
-girl:
-    name: 卡卡西
-    age: 19
